@@ -14,7 +14,7 @@ Instead of traditional group-mean comparisons, we utilize **Principal Component 
 
 ## 📂 Repository Structure
 - **/methods**  
-https://github.com/emiko-sh/outlier_ASD_TD_20260323/blob/main/methods/
+https://github.com/emiko-sh/outlier_ASD_TD_20260323/blob/main/methods/  
 Provides a detailed description of:  
   - The experimental setup and the COCORO eye-tracking protocol.
   - Data preprocessing pipelines.
