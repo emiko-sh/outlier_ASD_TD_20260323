@@ -13,11 +13,9 @@ This study proposes a novel **"outlier analysis"** approach to characterize the 
 Instead of traditional group-mean comparisons, we utilize **Principal Component Analysis (PCA)** and **Mahalanobis distance** to identify individual idiosyncratic patterns that are often masked in conventional analyses.
 
 ## 📂 Repository Structure
-- **/code**: Contains R/Python scripts used for:
-  - Feature extraction and dimensionality reduction via PCA.
-  - Calculation of Mahalanobis distance ($D_M$).
-  - Validation of results using robust linear regression.
-- **/methods**: Provides a detailed description of:
+- **/methods**  
+https://github.com/emiko-sh/outlier_ASD_TD_20260323/blob/main/methods/supplementary_20260227.pdf  
+Provides a detailed description of:  
   - The experimental setup and the COCORO eye-tracking protocol.
   - Data preprocessing pipelines.
   - Mathematical definitions of the temporal and spatial eye-movement indices.
