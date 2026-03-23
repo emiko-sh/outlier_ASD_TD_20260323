@@ -1,4 +1,3 @@
-# outlier_ASD_TD_20260323
 Supplementary materials for ’Detecting Outliers of Pursuit Eye Movements: A Preliminary Analysis of Autism Spectrum Disorder’
 # Detecting outliers of pursuit eye movements: a preliminary analysis of autism spectrum disorder
 
