@@ -146,7 +146,7 @@ These metrics are used to identify outliers in pursuit behavior.
 ---
 
 ## Notes
-- Some helper functions and data files (e.g., `targetXY_FL.mat`, `positionTrials`) are referenced but some are not included.  
+- Helper functions and data files (e.g., `targetXY_FL.mat`, `positionTrials`) are referenced but some are not included.  
 - These scripts document the analysis pipeline used in the paper and are not intended as a standalone executable package.
 
 ---
