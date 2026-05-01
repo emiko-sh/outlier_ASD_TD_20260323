@@ -13,7 +13,7 @@ The workflow includes:
 - Pursuit angle computation  
 - Delay estimation between target and eye movement  
 - Identification of unusable gaze regions  
-- PCA‑based outlier detection using squared Mahalanobis distance  
+- PCA‑based outlier detection using Mahalanobis distance  
 
 These scripts accompany the paper:
 
