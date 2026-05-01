@@ -21,6 +21,7 @@ Provides a detailed description of:
   - The experimental setup and the COCORO eye-tracking protocol.
   - Data preprocessing pipelines.
   - Mathematical definitions of the temporal and spatial eye-movement indices.
+- **/code**  
 
 ## 🚀 Key Methodological Features
 - **Dimensionality Reduction:** Isolating core features from high-dimensional SPEM data to focus on individual deviations.
