@@ -86,5 +86,5 @@ end
 
 function savePlot()
 txt = ['Fig', script_name(7:end), '_', filename, '_f5'];
-saveas(figure(5), fullfile('20181113 figures02', txt), 'png');
+saveas(figure(5), fullfile('figures02', txt), 'png');
 end
