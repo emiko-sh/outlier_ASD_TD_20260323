@@ -18,8 +18,7 @@ for row=1:sizeS
         compt(:,1) = k-w:k+w;
 
                 for m=1:w*2+1
-                t=compt(m); % -200 ms to +200 ms
-                % k+t  where t=-200 to 200 ms is for time to compare
+                t=compt(m); 
                 if or (t<1, t>Tmax) % over or under
                 L(m)=nan;
                 else
