@@ -34,8 +34,7 @@ for row=1:sizeS
         minTimePoint(k,1) = Tmin (I) ;
         minTimeDiff(k,1) = M ;
         end
-    %s(row).minTimePoint = minTimePoint;
-    %s(row).minTimeDiff = minTimeDiff; 
+        
     targetTime(:,1) = 1:Tmax;
     s(row).timeDiff = minTimePoint-targetTime; 
     
@@ -47,7 +46,7 @@ end
 %--end of function--
 end
 
-%% --function --
+%% --function ----
 
 function plotMeasureDelay()
 figure(3);
