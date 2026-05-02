@@ -46,7 +46,7 @@ end
 %--end of function--
 end
 
-%% --function ----
+%% --function --
 
 function plotMeasureDelay()
 figure(3);
