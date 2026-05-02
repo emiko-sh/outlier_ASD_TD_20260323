@@ -1,5 +1,5 @@
-% to measured the delay of pursuit 
-% delay from the angle of targer 
+% to measure the delay of pursuit 
+% delay from the angle of target
 function s = measureDelay(s, tgTheta)
 sizeS= length(s);
 Tmax=20000;
