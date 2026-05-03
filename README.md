@@ -21,7 +21,13 @@ Provides a detailed description of:
   - The experimental setup and the COCORO eye-tracking protocol.
   - Data preprocessing pipelines.
   - Mathematical definitions of the temporal and spatial eye-movement indices.
-- **/code**  
+- **/code**
+  - Provides the full MATLAB implementation of the analysis pipeline, including:
+  - data extraction and preprocessing  
+  - blink detection and removal  
+  - pursuit-angle computation  
+  - delay estimation (timeDiff)  
+  - PCA-based outlier detection (Mahalanobis distance)
 
 ## 🚀 Key Methodological Features
 - **Dimensionality Reduction:** Isolating core features from high-dimensional SPEM data to focus on individual deviations.
