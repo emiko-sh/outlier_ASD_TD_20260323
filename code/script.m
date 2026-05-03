@@ -144,4 +144,5 @@ st2 = mahal(cscores ,cscores ) ;
 cscoresASD = (asdat-mu)./sigma*coefforth;
 st2ASD = mahal(cscoresASD, cscores) ;
 
+% 'mahal' returns squared distance; "Outlier Score" in the paper is sqrt(output).
 
