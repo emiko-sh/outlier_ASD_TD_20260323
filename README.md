@@ -21,7 +21,7 @@ Provides a detailed description of:
   - The experimental setup and the COCORO eye-tracking protocol.
   - Data preprocessing pipelines.
   - Mathematical definitions of the temporal and spatial eye-movement indices.
-- **/code**
+- **/code**  
 https://github.com/emiko-sh/outlier_ASD_TD_20260323/tree/main/code
   - Provides the full MATLAB implementation of the analysis pipeline, including:
   - data extraction and preprocessing  
