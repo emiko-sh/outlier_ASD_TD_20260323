@@ -29,7 +29,7 @@ Provides the full MATLAB implementation of the analysis pipeline, including:
   - pursuit-angle computation  
   - delay estimation (timeDiff)  
   - PCA-based outlier detection (Mahalanobis distance)
-- **/data**
+- **/data**  
 https://github.com/emiko-sh/outlier_ASD_TD_20260323/tree/main/data  
 Provides the full MATLAB implementation of the analysis pipeline, including:
   - demographic data of participants (age, outlier score, etc.)  
