@@ -31,7 +31,6 @@ Provides the full MATLAB implementation of the analysis pipeline, including:
   - PCA-based outlier detection (Mahalanobis distance)
 - **/data**  
 https://github.com/emiko-sh/outlier_ASD_TD_20260323/tree/main/data  
-Provides the full MATLAB implementation of the analysis pipeline, including:
   - demographic data of participants (age, outlier score, etc.)  
 
 ## 🚀 Key Methodological Features
